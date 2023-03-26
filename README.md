@@ -24,4 +24,4 @@ Full stack MERN app coming soon
 
 
 ![0](https://user-images.githubusercontent.com/99403991/227798540-3dbaedba-9cdd-4f59-961a-5c8ead12a2ba.jpg)
-![0-1](https://user-images.githubusercontent.com/99403991/227798547-9805d6dd-eeb8-41e6-92a8-79a5dad612d3.jpg)
+
